@@ -1,23 +1,23 @@
-Lift,						Weight,		Number of Reps,		Number of Sets,		Date,			Comment
-Back Squat,					185,		8,					1,					20-JAN-2015,	
-Front Squat,				145,		8,					1,					20-JAN-2015,	
-Overhead Squat,				105,		8,					1,					20-JAN-2015,	
-Clean,						125,		8,					1,					20-JAN-2015,	
-Power Clean,				135,		8,					1,					20-JAN-2015,	
-Shoulder Press,				95,			8,					1,					20-JAN-2015,	
-Push Press,					125,		8,					1,					20-JAN-2015,	
-Push Jerk,					135,		8,					1,					20-JAN-2015,	
-Snatch,						115,		8,					1,					20-JAN-2015,	
-Squat Thruster,				105,		8,					1,					20-JAN-2015,	
-Deep Back Squat,			145,		8,					1,					20-JAN-2015,	
-Deadlift,					255,		8,					1,					20-JAN-2015,	
-Sumo Deadlift High Pull,	135,		8,					1,					20-JAN-2015,	
-Back Squat,					175,		8,					3,					22-JAN-2015,
-Front Squat,				135,		8,					4,					22-JAN-2015,
-Decline Bench Press,		165,		8,					4,					22-JAN-2015,
-Flat Bench Press,			135,		8,					4,					22-JAN-2015,
-Incline Bench Press,		105,		8,					3,					22-JAN-2015,
-Deadlift,					235,		8,					3,					27-JAN-2015,	Perfect weight
-Back Squat,					185,		8,					3,					27-JAN-2015,	Little heavy; will adapt
-Shoulder Press,				105,		8,					3,					27-JAN-2015,	Very heavy (started with 115)
-Decline Bench Press,		175,		8,					3,					27-JAN-2015,	Perfect weight
+Lift,                       Weight,     Number of Reps,     Number of Sets,     Date,           Comment
+Back Squat,                 185,        8,                  1,                  20-JAN-2015,    
+Front Squat,                145,        8,                  1,                  20-JAN-2015,
+Overhead Squat,             105,        8,                  1,                  20-JAN-2015,    
+Clean,                      125,        8,                  1,                  20-JAN-2015,    
+Power Clean,                135,        8,                  1,                  20-JAN-2015,    
+Shoulder Press,             95,         8,                  1,                  20-JAN-2015,    
+Push Press,                 125,        8,                  1,                  20-JAN-2015,    
+Push Jerk,                  135,        8,                  1,                  20-JAN-2015,    
+Snatch,                     115,        8,                  1,                  20-JAN-2015,    
+Squat Thruster,             105,        8,                  1,                  20-JAN-2015,    
+Deep Back Squat,            145,        8,                  1,                  20-JAN-2015,    
+Deadlift,                   255,        8,                  1,                  20-JAN-2015,    
+Sumo Deadlift High Pull,    135,        8,                  1,                  20-JAN-2015,    
+Back Squat,                 175,        8,                  3,                  22-JAN-2015,
+Front Squat,                135,        8,                  4,                  22-JAN-2015,
+Decline Bench Press,        165,        8,                  4,                  22-JAN-2015,
+Flat Bench Press,           135,        8,                  4,                  22-JAN-2015,
+Incline Bench Press,        105,        8,                  3,                  22-JAN-2015,
+Deadlift,                   235,        8,                  3,                  27-JAN-2015,    Perfect weight
+Back Squat,                 185,        8,                  3,                  27-JAN-2015,    Little heavy; will adapt
+Shoulder Press,             105,        8,                  3,                  27-JAN-2015,    Very heavy (started with 115)
+Decline Bench Press,        175,        8,                  3,                  27-JAN-2015,    Perfect weight
