@@ -12,6 +12,7 @@ Squat Thruster,             95,         8,                  1,                  
 Deep Back Squat,            0,          0,                  0,                  20-JAN-2015,    
 Deadlift,                   215,        8,                  1,                  20-JAN-2015,    
 Sumo Deadlift High Pull,    115,        8,                  1,                  20-JAN-2015,    
+<<<<<<< HEAD
 Back Squat,                 135,        8,                  3,                  22-JAN-2015,    
 Front Squat,                65,         8,                  4,                  22-JAN-2015,    
 Decline Bench Press,        145,        8,                  4,                  22-JAN-2015,    
@@ -34,3 +35,32 @@ Snatch,                     0,          0,                  0,                  
 Shoulder Press,             85,         8,                  3,                  05-FEB-2015,    
 Hang Power Clean,           95,         8,                  3,                  05-FEB-2015,    Need to practice form over the weekend 
 Incline Bench Press,        95,         8,                  3,                  05-FEB-2015,    Good weight
+=======
+Back Squat,                 135,        8,                  3,                  22-JAN-2015,
+Front Squat,                65,         8,                  4,                  22-JAN-2015,
+Decline Bench Press,        145,        8,                  4,                  22-JAN-2015,
+Flat Bench Press,           115,        8,                  4,                  22-JAN-2015,
+Incline Bench Press,        75,         8,                  3,                  22-JAN-2015,
+Deadlift,                   205,        8,                  3,                  27-JAN-2015,
+Back Squat,                 155,        8,                  3,                  27-JAN-2015,
+Shoulder Press,             75,         8,                  3,                  27-JAN-2015,
+Decline Bench Press,        135,        8,                  3,                  27-JAN-2015,
+Overhead Squat,             55,         8,                  3,                  29-JAN-2015,
+Clean,                      95,         8,                  3,                  29-JAN-2015,
+Front Squat,                115,        8,                  3,                  29-JAN-2015,
+Flat Bench Press,           135,        8,                  3,                  29-JAN-2015,
+Incline Dumbbell Press      45,         8,                  3,                  03-FEB-2015,     Couldn't complete 3rd set (close enough)
+Back Squat                  160,        8,                  3,                  03-FEB-2015,
+Squat Thruster              100,        8,                  3,                  03-FEB-2015,
+Deadlift                    225,        8,                  3,                  03-FEB-2015,
+Front Squat                 115,        8,                  3,                  05-FEB-2015,    
+Snatch                      0,          0,                  0,                  05-FEB-2015,    Need to practice form over the weekend
+Shoulder Press              85,         8,                  3,                  05-FEB-2015,    
+Hang Power Clean            95,         8,                  3,                  05-FEB-2015,    Need to practice form over the weekend 
+Incline Bench Press         95,         8,                  3,                  05-FEB-2015,    Good weight
+Bent Over Row,              135,        8,                  3,                  10-FEB-2015,    Crushed it!!!
+Overhead Squat,             0,          0,                  0,                  10-FEB-2015,    Still Practicing
+Sumo Deadlift High Pull,    115,        8,                  3,                  10-FEB-2015,    
+Decline Bench Press,        145,        8,                  3,                  10-FEB-2015,    Good Weight
+Flat Dumbell Press,         60,         8,                  3,                  10-FEB-2015,    
+>>>>>>> fe7722d7b39fbf9df3c6594909e580e52a3abe42
