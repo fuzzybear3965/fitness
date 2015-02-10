@@ -42,6 +42,10 @@ for j=1:length(lift)
         num(k)=17;
     elseif strcmp('Incline Dumbbell Press',lift{j})==1
         num(k)=18;
+    elseif strcmp('Flat Dumbbell Press',lift{j})==1
+        num(k)=19;
+    elseif strcmp('Bent Over Row',lift{j})==1
+        num(k)=20;
     else
         num(k)=0;
     end
