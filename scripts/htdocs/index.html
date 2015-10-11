@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <script src="src/extern/angular.min.js"></script>
+        
+        <script src="src/extern/ui-grid.min.js"></script>
+        <link rel="stylesheet" href="src/extern/ui-grid.min.css">
+
+        <link rel="stylesheet" href="src/extern/c3.min.css">
+        <script src="src/extern/c3.min.js"></script>
+        <script src="src/extern/d3.min.js"></script>
+
+        <link rel="stylesheet" href="src/css/main.css">
+    </head>
+    <body ng-app="app">
+        <div ng-controller="FitnessGrid">
+            <div id="grid" ui-grid="gridOptions"
+                           ui-grid-move-columns class="grid"></div>
+        </div>
+        <div id="chart"></div>
+        <script src="src/js/app.js"></script>
+    </body>
+</html>
