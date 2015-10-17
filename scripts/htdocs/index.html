@@ -14,10 +14,23 @@
     </head>
     <body ng-app="app">
         <div ng-controller="FitnessGrid">
-            <div id="grid" ui-grid="gridOptions"
-                           ui-grid-move-columns class="grid"></div>
+            <div>
+                <form>
+                    <h4>Select your Lifts</h4>
+                    <span ng-repeat="lift in lifts">
+                        <label>
+                        <input type="checkbox"
+                        ng-model="selection.ids[lift.shortName]"
+                        ng-change="updateChart()" id="lift.shortName" />
+                        {{lift.properName}}
+                        </label>
+                </form>
+            </div>
+            <div id="chart" class="center"></div>
+            <div id="grid" ui-grid="gridOptions" ui-grid-resize-columns
+                           ui-grid-move-columns class="center grid">
+            </div>
         </div>
-        <div id="chart"></div>
         <script src="src/js/app.js"></script>
     </body>
 </html>

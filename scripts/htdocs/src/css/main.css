@@ -1,4 +1,14 @@
- .grid {
+#grid{
     width: 80vw;
     height: 60vh;
+}
+
+#chart {
+    width: 70vw;
+    height: 60vh;
+}
+
+.center {
+    margin: 0 auto;
+    display: block;
 }
